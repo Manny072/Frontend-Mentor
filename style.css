@@ -43,20 +43,13 @@ h1 {
     padding-right: 20px;
 }
 
-.preparation-time {
-    padding: 20px;
-    border-radius: 8px;
-    margin-top: 15px;
-    width: 100%;
-    
-
-}
 
 .preparation-time {
     background: #f2e6d9;
     padding: 20px;
     border-radius: 8px;
     margin-top: 15px;
+    margin-bottom: 30px;
     max-width: 563px;
 }
 
@@ -83,7 +76,6 @@ h2 {
 
 
 .ingredients {
-    
     padding: 15px;
     border-radius: 8px;
     width: 100%;
@@ -95,7 +87,6 @@ h2 {
 
 .ingredients h2 {
     font-size: 20px;
-    color: #7b4b94;
     margin-bottom: 15px;
     text-decoration: none; 
     border-bottom: none; 
