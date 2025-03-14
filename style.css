@@ -2,7 +2,7 @@
     
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3e5d8;
+    background-color: #f2e6d9;
     color: #4a3f35;
     margin: 0;
     padding: 20px;
@@ -53,10 +53,11 @@ h1 {
 }
 
 .preparation-time {
+    background: #f2e6d9;
     padding: 20px;
     border-radius: 8px;
     margin-top: 15px;
-    width: 100%;
+    max-width: 563px;
 }
 
 .preparation-time h3 {
